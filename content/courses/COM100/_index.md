@@ -13,7 +13,7 @@ This course will focus on the development of public speaking and listening skill
 
 ## Syllabus & Slides
 
-VIEW {{< staticref "uploads/COM100 syllabus.pdf" "newtab" >}}SYLLABUS{{< /staticref >}} {{< staticref "uploads/COMS100.pdf" "newtab" >}} & Sample Slide{{< /staticref >}}
+VIEW {{< staticref "uploads/COM100 syllabus.pdf" "newtab" >}}SYLLABUS{{< /staticref >}} & {{< staticref "uploads/COMS100.pdf" "newtab" >}}Sample Slide{{< /staticref >}}
 
 ## Sample Assignment
 
