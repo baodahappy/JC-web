@@ -14,6 +14,7 @@ type: book
 Advertising and public relations practice involves using research to make decisions – often big decisions with big price tags. This course provides students with the tools to outline, execute and evaluate mass media research. The primary focus is on using research for advertising and public relations program and campaign management—planning, monitoring and evaluating. You will learn the most important research methods used in the field – content analysis, focus groups, in-depth interviews, surveys, and experiments – and gain experience with the statistical and textual analysis methods most often used to analyze results.
 
 ## Course objectives
+
 By the end of this semester, students will be able to:
 1. Demonstrate an understanding of the diversity of audiences in relationship to communications;
 2. Understand concepts and apply theories in the use and presentation of images and information;
@@ -28,7 +29,7 @@ By the end of this semester, students will be able to:
 11. Use statistical software (e.g., SPSS) to analyze data;
 12. Present both secondary and primary research in a comprehensive, well-organized report.
 
-## Syllabus & Leture Slides
+## Syllabus & Lecture Slides
 
 VIEW {{< staticref "uploads/Comm420 syllabus.pdf" "newtab" >}}SYLLABUS{{< /staticref >}}
 
@@ -36,6 +37,6 @@ Theory Module: {{< staticref "uploads/L8 Level of Measurement.pdf" "newtab" >}}M
 
 Survey Module: {{< staticref "uploads/Qualtrics Tutorial.pdf" "newtab" >}}Qualtrics Tutorial Slides{{< /staticref >}}
 
-## Sample assignment
+## Sample Assignment
 
-VIEW {{< staticref "uploads/Interviews assignment" "newtab" >}}Interview assignment {{< /staticref >}} & {{< staticref "uploads/Interview rubic.pdf" "newtab" >}}Rubic{{< /staticref >}}
+VIEW {{< staticref "uploads/Interviews assignment" "newtab" >}}Interview assignment {{< /staticref >}} & {{< staticref "uploads/Interview rubic.pdf" "newtab" >}}Rubric{{< /staticref >}}
