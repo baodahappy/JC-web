@@ -10,7 +10,7 @@ role: Ph.D. Candidate/Graduate Fellow/Translator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Donald P. Bellisario College of Communications,  Penn State University
+- name: Donald P. Bellisario College of Communications, Penn State University
   url: https://www.bellisario.psu.edu
 
 # Short bio (displayed in user profile at end of posts)
