@@ -7,15 +7,24 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Teaching Philosophy
-    url: teaching/
+
+  - name: Publications
+    url: '#publications'
+    weight: 15
+    
+  - name: Projects
+    url: project/
     weight: 20
-  - name: Courses
-    url: courses/
+
+  - name: Teaching
+    identifier: teaching
+    url: teaching/
     weight: 30
-  - name: Posts
-    url: '#posts'
-    weight: 40
+    
+  - name: Translation work
+    url: translation
+    weight: 50
+
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60

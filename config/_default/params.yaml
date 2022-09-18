@@ -5,31 +5,26 @@
 
 # Appearance
 
-theme: Earth
+theme: Rose
 day_night: true
-font: 'Minimal'
+font: 'Classic'
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
 description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-address:
-  street: 8 Carnegie Building
-  city: University Park
-  region: PA 
-  postcode: '16802'
-  country: United States
-  country_code: US
-
 email: jzc6327@psu.edu
-
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/JinChen_bd'
+    
 # office_hours:
 #  - by appointment
 # appointment_url: 'https://calendly.com'
@@ -58,7 +53,7 @@ address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
   - python
@@ -75,16 +70,16 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
+  post: false
   project: true
   publication: true
   event: true
 reading_time: true
 section_pager: false
-docs_section_pager: true
-sharing: true
+docs_section_pager: false
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

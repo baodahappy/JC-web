@@ -1,0 +1,6 @@
+---
+title: “This Video is Sponsored!” The Role of User Danmaku Disclosure on  Evaluations of Influencer Marketing  
+weight: 25
+---
+
+Prior studies have documented the effects of sponsorship disclosures, however, much of the prior work has focused on traditional disclosure sources with less consideration of the new interactive media context. The present work examines the effect of user Danmaku, as a novel source of sponsorship disclosure, on both conceptual and attitudinal aspects of persuasion knowledge, as well as brand outcomes. We conducted a 3 (disclosure type: none vs. influencer vs. Danmaku disclosure) x 2 (ad position: beginning vs. end of the video) between-subject factorial experiment among a native Chinese sample. The results showed that Danmaku and influencer disclosure were equally effective on ad recognition but differed in attitudinal persuasion knowledge as Danmaku disclosure induced greater dislike, skepticism, and perceived inappropriateness. There was no effect of sponsorship placement on outcome variables. Furthermore, ad recognition affected brand outcomes via attitudinal persuasion knowledge. Based on the findings, theoretical and practical implications are discussed. 
