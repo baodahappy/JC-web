@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jzc6327@psu.edu
+  link: mailto:chenjin.bd@gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=O5xv5j8AAAAJ
@@ -70,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jzc6327@psu.edu"
+email: chenjin.bd@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
