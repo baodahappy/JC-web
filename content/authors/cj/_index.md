@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Mass Communication
     institution: Penn State University
-    year: Expected May 2023 
+    year: 2023 
   - course: MA in Communication Studies
     institution: Northern Illinois University
     year: 2019
