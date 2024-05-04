@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jin Chen</title>
+    <link>https://academic-demo.netlify.app/project/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://academic-demo.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Taxing or Relaxing? Retrospective Responses to Video Games in Relation to Demand</title>
+      <link>https://academic-demo.netlify.app/project/_video-game-recovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/_video-game-recovery/</guid>
+      <description>&lt;p&gt;This paper explores the self-reported impact of playing video games of varied intensities on perceptions of emotion regulation and recovery during times of stress and addresses in-game demand as a prominent factor contributing to differences in gaming experiences. In a within-subjects retrospective study, participants (N = 218) were asked to recall both an easy game and a challenging game that they play regularly and rate the two experiences. Results demonstrated notable distinctions between the recollections of playing these two classes of video games on user experiences. Both types of games were perceived to lower self-reported negative emotions among the participants, with easy games tending to correlate with higher positive emotions for users post game. While both classes of games did not differ in relation to self-reported recovery, easy games were associated with more relaxation and less mastery. Implications of these findings for video game studies and game design are discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>“This Video is Sponsored!” The Role of User Danmaku Disclosure on  Evaluations of Influencer Marketing</title>
+      <link>https://academic-demo.netlify.app/project/_danmaku-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/_danmaku-disclosure/</guid>
+      <description>&lt;p&gt;Prior studies have documented the effects of sponsorship disclosures, however, much of the prior work has focused on traditional disclosure sources with less consideration of the new interactive media context. The present work examines the effect of user Danmaku, as a novel source of sponsorship disclosure, on both conceptual and attitudinal aspects of persuasion knowledge, as well as brand outcomes. We conducted a 3 (disclosure type: none vs. influencer vs. Danmaku disclosure) x 2 (ad position: beginning vs. end of the video) between-subject factorial experiment among a native Chinese sample. The results showed that Danmaku and influencer disclosure were equally effective on ad recognition but differed in attitudinal persuasion knowledge as Danmaku disclosure induced greater dislike, skepticism, and perceived inappropriateness. There was no effect of sponsorship placement on outcome variables. Furthermore, ad recognition affected brand outcomes via attitudinal persuasion knowledge. Based on the findings, theoretical and practical implications are discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tailoring Your AI Friend</title>
+      <link>https://academic-demo.netlify.app/project/_ai-friend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/_ai-friend/</guid>
+      <description>&lt;p&gt;Will people like their companion chatbot and enjoy the interaction more if given the choice to customize it? If so, why? We investigated these questions with an experiment in which participants in the customization group (N = 85) were given the options to choose the name, gender, and personality of a text-based companion chatbot while those in the control condition (N = 82) randomly received chatbots matched with the customization choices made by participants in the experimental group (a yoked control design). Data showed that providing customization had positive indirect effects on user perception of the chatbot, enjoyment of the interaction, and future use intentions via perceived customization, sense of control, sense of identity, homophily, and expectation violation. In addition, users’ perceived levels of customization contributed positively to user perceptions of homophily and identity, with these relationships being moderated by individual differences in perceptions of machines and technology use respectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should Chatbot Ads Be Chatty</title>
+      <link>https://academic-demo.netlify.app/project/_chatbot-advertising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/_chatbot-advertising/</guid>
+      <description>&lt;p&gt;Powered by artificial intelligence (AI), chatbots are increasingly capable of simulating human-like conversations to enable users to interact with digital devices effectively. But, is this desirable for strategic communications? Will chatbots be more persuasive if they are more human-like, not only in their appearance but also in their interaction and delivery of advertising content? Or will they raise unrealistic user expectations? We explored these questions with a 2 (chatbot profile: human-like vs. machine-like) x 2 (message interactivity: high vs. low) x 2 (ad type: narrative vs. factual) experiment (N = 414). Data reveal that high message interactivity fosters positive attitudes toward the chatbot and the ad by increasing perceptions of social presence, as well as by mitigating violated expectancy. When a chatbot is machine-like in appearance, higher interactivity and adoption of a narrative style of delivery serve to increase ad persuasiveness by heightening social presence. Theoretical as well as practical implications for chatbot advertising are discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Jin Chen</title>
+    <link>https://academic-demo.netlify.app/teaching/</link>
+      <atom:link href="https://academic-demo.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>https://academic-demo.netlify.app/teaching/</link>
+    </image>
+    
+    <item>
+      <title>COMM420 Research Methods in Advertising and Public Relations</title>
+      <link>https://academic-demo.netlify.app/teaching/_comm420/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/teaching/_comm420/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;Advertising and public relations practice involves using research to make decisions – often big decisions with big price tags. This course provides students with the tools to outline, execute and evaluate mass media research. The primary focus is on using research for advertising and public relations program and campaign management—planning, monitoring and evaluating. You will learn the most important research methods used in the field – content analysis, focus groups, in-depth interviews, surveys, and experiments – and gain experience with the statistical and textual analysis methods most often used to analyze results.&lt;/p&gt;
+&lt;h2 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h2&gt;
+&lt;p&gt;By the end of this semester, students will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Demonstrate an understanding of the diversity of audiences in relationship to communications;&lt;/li&gt;
+&lt;li&gt;Understand concepts and apply theories in the use and presentation of images and information;&lt;/li&gt;
+&lt;li&gt;Demonstrate an understanding of professional ethical principles and work ethically;&lt;/li&gt;
+&lt;li&gt;Think critically, creatively and independently;&lt;/li&gt;
+&lt;li&gt;Conduct research and evaluate information by methods appropriate to the communications professions in which they work;&lt;/li&gt;
+&lt;li&gt;Write correctly and clearly;&lt;/li&gt;
+&lt;li&gt;Apply basic numerical and statistical concepts;&lt;/li&gt;
+&lt;li&gt;Apply tools and technologies commonly used in communications practices;&lt;/li&gt;
+&lt;li&gt;Know the difference between primary and secondary research, and their uses;&lt;/li&gt;
+&lt;li&gt;Develop a primary research project including research objectives, sample justification, data collection, data analysis, and data interpretation;&lt;/li&gt;
+&lt;li&gt;Use statistical software (e.g., SPSS) to analyze data;&lt;/li&gt;
+&lt;li&gt;Present both secondary and primary research in a comprehensive, well-organized report.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;syllabus--lecture-slides&#34;&gt;Syllabus &amp;amp; Lecture Slides&lt;/h2&gt;
+&lt;p&gt;VIEW &lt;a href=&#34;https://academic-demo.netlify.app/uploads/Comm420%20syllabus.pdf&#34; target=&#34;_blank&#34;&gt;SYLLABUS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Theory Module: &lt;a href=&#34;https://academic-demo.netlify.app/uploads/L8%20Level%20of%20Measurement.pdf&#34; target=&#34;_blank&#34;&gt;Measurement Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Survey Module: &lt;a href=&#34;https://academic-demo.netlify.app/uploads/Qualtrics%20Tutorial.pdf&#34; target=&#34;_blank&#34;&gt;Qualtrics Tutorial Slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMM310 Digital Media Metrics</title>
+      <link>https://academic-demo.netlify.app/teaching/_comm310/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/teaching/_comm310/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;This course is an introduction to the methods for collecting, analyzing and utilizing audience data for traditional and new media. The class will cover the fundamentals of traditional media audience analysis, web metrics, and social media metrics, specifically as they relate to audience measurement, advertising campaign evaluation and content distribution. Students will learn the methods of data collection, analysis and use for traditional broadcast media, and the transformation of these practices in the newly digitized and converged multiplatform, multiscreen environment. The course will also cover the basics of data capture for new media (at an appropriate technical level), and the use of this data for the design of metrics appropriate for various purposes such as monitoring traffic, conversions and revenue generation. The use of metrics in pricing models for advertising, sales generation and content distribution will also be covered. Students will be introduced to data sources for digital media audience analysis, with a special focus on Google Analytics. Students passing this class would be able to pass the Google Analytics Individual Qualification test.&lt;/p&gt;
+&lt;h2 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Understand metrics and key performance indicators for web analytics and social media metrics; sources of data for new media, including web analytics platforms such as Google Analytics, online surveys and competitive intelligence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare students to take the Google Analytics Individual Qualification (GAIQ) certification exam.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn key skills such as quantification, basic statistical tests, reasoning with numbers, performance measurement and tracking, financial metrics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The course is for students who intend to pursue careers in web analytics, digital analytics, social media analytics, or in new media departments of traditional content providers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMM100N The Mass Media and Society</title>
+      <link>https://academic-demo.netlify.app/teaching/_comm100n/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/teaching/_comm100n/</guid>
+      <description>&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;The Mass Media and Society is an overview of the interaction between mass media and society. By drawing from selected topics, the course pays particular attention to the social influences (e.g., economics, politics, technology, law and culture) that shape media messages. Among others, the course examines the nature of media controllers as well as the character of &amp;ldquo;users&amp;rdquo; and &amp;ldquo;consumers&amp;rdquo; of media products. By so doing, students are informed about the overall structure and scope of the mass media and led to understand the power and influences associated with media messages and practices. By the end of the semester, each student should have a better understanding of the dynamic nature of the mass media in an information society.&lt;/p&gt;
+&lt;h2 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h2&gt;
+&lt;p&gt;At the completion of this course, you should be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Describe the different functions of the mass media;&lt;/li&gt;
+&lt;li&gt;Describe the process and theory of mass communication;&lt;/li&gt;
+&lt;li&gt;Explain the basic concepts relevant to the various media forms;&lt;/li&gt;
+&lt;li&gt;Demonstrate an awareness of the media as social, political and cultural forces;&lt;/li&gt;
+&lt;li&gt;List the formal and informal controls on the mass media;&lt;/li&gt;
+&lt;li&gt;Explain current trends and changes in the mass media including those influenced by new technologies;&lt;/li&gt;
+&lt;li&gt;Explain the practices and processes of media support systems/industries;&lt;/li&gt;
+&lt;li&gt;Discuss varied issues including those ethical concerns pertinent to media and the public.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMS100 Public Speaking</title>
+      <link>https://academic-demo.netlify.app/teaching/_com100/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/teaching/_com100/</guid>
+      <description>&lt;h2 id=&#34;course-objective&#34;&gt;Course Objective:&lt;/h2&gt;
+&lt;p&gt;This course will focus on the development of public speaking and listening skills required for effective communication in a variety of contexts. Improvement of these skills will help you process and evaluate messages as well as adapt your communication to diverse audiences and settings. Students are expected to show increased skill development and to better understand varying perspectives from assignment and assignment.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus--slides&#34;&gt;Syllabus &amp;amp; Slides&lt;/h2&gt;
+&lt;p&gt;VIEW &lt;a href=&#34;https://academic-demo.netlify.app/uploads/COM100%20syllabus.pdf&#34; target=&#34;_blank&#34;&gt;SYLLABUS&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://academic-demo.netlify.app/uploads/COMS100.pdf&#34; target=&#34;_blank&#34;&gt;Sample Slide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sample-assignment&#34;&gt;Sample Assignment&lt;/h2&gt;
+&lt;p&gt;VIEW &lt;a href=&#34;https://academic-demo.netlify.app/uploads/persuasive%20speech.pdf&#34; target=&#34;_blank&#34;&gt;Persuasive Speech Assignment&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://academic-demo.netlify.app/uploads/speech%20rubic.pdf&#34; target=&#34;_blank&#34;&gt;Rubric&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

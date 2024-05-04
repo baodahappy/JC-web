@@ -6,23 +6,22 @@ title: Jin Chen 陈瑾
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate/Graduate Fellow/Translator 
+role: assistant professor/social science researcher/translator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Donald P. Bellisario College of Communications, Penn State University
-  url: https://www.bellisario.psu.edu
+- name: School of Communications, Grand Valley State University
+  url: https://www.gvsu.edu/soc/facultystaff-directory-194.htm?recordId_1=275219ED-F15D-78E9-612C805070DD1D1E#69CDA0CB-378E-B608-D2B85C2686752172
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study media effects, health communication, emotions & social identity, communication technology.
+bio: I study media effects, health communication, emotions, communication technology.
 
 # Interests to show in About widget
 Interests:
 - Media Effects
-- Health & Strategic Communication
-- Emotions & Social Identity
+- Health Communication
 - Communication Technology
-- Data Analytics & R
+- Emotions
 
 # Education to show in About widget
 education:
@@ -76,9 +75,7 @@ email: chenjin.bd@gmail.com
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in mass communication and a University Graduate Fellow at Penn State University’s Donald P. Bellisario College of Communications. I have dual B.A. degrees in Finance and Marketing from Tianjin University of Finance & Economics, China. I worked in marketing and retail management positions after graduation. I was also a freelance translator and have published six solo translated books in social science subjects including business, psychology, and philosophy. I earned my M.A. in communication studies from Northern Illinois University where I developed my current research interests in media studies.  
-
-My primary research program is situated at the intersection of media effects, health and strategic communication, particularly in the context of interactive communication technologies. More specifically, I am interested in exploring how (social) emotions evoked by media motivate and shape risk perceptions and health behaviors, as well as the potential of interactive media technologies like chatbots, AI algorithms, and video games for promoting health behaviors and personal well-being. 
+I am an assistant professor in the Advertising and Public Relations major program in the school of communications at Grand Valley State University. My research primarily focuses on media effects and health communication, particularly in the context of interactive communication technologies. My work has been recognized in the form of the Top Student Paper Award and Professional Relevance Award at the Association of Educators in Journalism and Mass Communications (AEJMC). I published research papers in peer-reviewed journals such as Journalism & Mass Communication Quarterly, Health Communication, and Journal of Business Research. Before my academic career, I held marketing and retail management positions in multicultural organizations. As a certified translator, I published six solo translated books in marketing, communication, psychology, and philosophy.
 
 During my master’s and doctoral studies, I have been the instructor of record for both introductory and upper-division undergraduate courses in varied teaching contexts (face-to-face, hybrid, and online) including <em>Digital Media Analytics</em>, <em>Research Methods in Advertising and Public Relations</em>, <em>Mass Media & Society</em>, and <em>Public Speaking</em>. 
 
