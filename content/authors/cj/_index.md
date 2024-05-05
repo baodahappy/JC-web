@@ -75,7 +75,7 @@ email: chenjin.bd@gmail.com
 highlight_name: true
 ---
 
-My name is Jin Chen. I am a tenure-track assistant professor of the Advertising and Public Relations at the School of Communications at Grand Valley State University. My research primarily focuses on media effects and health communication, particularly in the context of interactive communication technologies. 
+My name is Jin Chen. I am a tenure-track assistant professor of Advertising and Public Relations at the School of Communications at Grand Valley State University. My research primarily focuses on media effects and health communication, particularly in the context of interactive communication technologies. 
 
 I earned my Ph.D. from the Donald P. Bellisario College of Communications at the Pennsylvania State University in 2023. My scholarly work has been published in journals such as Journalism & Mass Communication Quarterly, Health Communication, and Journal of Business Research.
 
