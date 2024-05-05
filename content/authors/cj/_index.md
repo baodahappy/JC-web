@@ -18,9 +18,9 @@ bio: I study media effects, health communication, emotions, communication techno
 
 # Interests to show in About widget
 Interests:
-- Media Effects
-- Health Communication
-- Communication Technology
+- Media effects
+- Health communication
+- Interactive technologies
 - Emotions
 
 # Education to show in About widget
