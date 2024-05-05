@@ -75,6 +75,8 @@ email: chenjin.bd@gmail.com
 highlight_name: true
 ---
 
-I am an assistant professor in the Advertising and Public Relations major program in the school of communications at Grand Valley State University. My research primarily focuses on media effects and health communication, particularly in the context of interactive communication technologies. My work has been recognized in the form of the Top Student Paper Award and Professional Relevance Award at the Association of Educators in Journalism and Mass Communications (AEJMC). I published research papers in peer-reviewed journals such as Journalism & Mass Communication Quarterly, Health Communication, and Journal of Business Research. Before my academic career, I held marketing and retail management positions in multicultural organizations. As a certified translator, I published six solo translated books in marketing, communication, psychology, and philosophy.
+My name is Jin Chen. I am a tenure-track assistant professor of the Advertising and Public Relations at the School of Communications at Grand Valley State University. My research primarily focuses on media effects and health communication, particularly in the context of interactive communication technologies. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+I earned my Ph.D. from the Donald P. Bellisario College of Communications at the Pennsylvania State University in 2023. My scholarly work has been published in journals such as Journalism & Mass Communication Quarterly, Health Communication, and Journal of Business Research.
+
+Before my academic career, I held marketing and retail management positions in multicultural organizations and worked as a freelance translator. I published six solo translated books in marketing, communication, psychology, and philosophy.
